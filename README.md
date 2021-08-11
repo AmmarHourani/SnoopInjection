@@ -2,6 +2,11 @@
 
 ManagedInjectorLauncherXX-X.0.exe windowHandle "assembly.Location" "className" "methodName"
 
+Great work from https://github.com/snoopwpf
+
+simplified to be used for injection/detouring purposes rather than WPF
+
+simple discription of work mechanism
 
 1) Launch Inject()-method from the ManagedInjector***.dll targeted at proper version of run-time.
 
